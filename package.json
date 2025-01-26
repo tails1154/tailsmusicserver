@@ -1,0 +1,25 @@
+{
+  "name": "tailsmusic",
+  "version": "2.0.0",
+  "description": "TailsMusic Server Revival",
+  "keywords": [
+    "server",
+    "music",
+    "revival"
+  ],
+  "homepage": "https://github.com/tails1154/tailsmusicserver#readme",
+  "bugs": {
+    "url": "https://github.com/tails1154/tailsmusicserver/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tails1154/tailsmusicserver.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Tails1154",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
